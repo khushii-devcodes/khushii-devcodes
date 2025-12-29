@@ -5,19 +5,15 @@ I'm a college student passionate about technology and aiming for a Software Deve
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, Python, C, C++  
-- **Frontend / Web:** HTML, CSS, JavaScript, React  
-- **Backend / Frameworks:** Spring, Spring Boot, Node
+- **Languages:** Java, Python  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Spring, Spring Boot, Node
 
 
 ## 🌱 Currently Learning
 
 - Advanced backend frameworks
 
-## 🤝 Open To
-
-- **Collaboration** on interesting projects
-- **Internship & Job opportunities** in software development
 
 ## 🎵 Interests
 
